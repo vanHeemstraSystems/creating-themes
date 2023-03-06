@@ -1,15 +1,15 @@
-[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-themes/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-themes/actions/workflows/publish.yml)
-[![Open in Codeflow](https://developer.stackblitz.com/img/open_in_codeflow_small.svg)](https:///pr.new/vanHeemstraSystems/learning-themes)
-[![Edit in Web Publisher](https://developer.stackblitz.com/img/edit_in_web_publisher_small.svg)](https://pr.new/github.com/vanHeemstraSystems/learning-themes/edit/main/README.md)
+[![Quarto Publish](https://github.com/vanHeemstraSystems/creating-themes/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/creating-themes/actions/workflows/publish.yml)
+[![Open in Codeflow](https://developer.stackblitz.com/img/open_in_codeflow_small.svg)](https:///pr.new/vanHeemstraSystems/creating-themes)
+[![Edit in Web Publisher](https://developer.stackblitz.com/img/edit_in_web_publisher_small.svg)](https://pr.new/github.com/vanHeemstraSystems/creating-themes/edit/main/README.md)
 
-learning-themes
-# Learning - Themes
+creating-themes
+# Creating - Themes
 
-Part of "Learning" at https://github.com/vanHeemstraSystems/learning
+Part of Creating" at https://github.com/vanHeemstraSystems/creating
 
-Can be read as "Learning - Themes" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/quwM6FgG3FcADTsy3XGb/
+Can be read as "Creating - Themes" at https://app.gitbook.com/o/QGgiJiNkwpv437Z2nY4O/s/55lcYjQ1bco6VVubpJaw/
 
-Can be browsed as "Learning - Themes" at https://vanheemstrasystems.github.io/learning-themes/
+Can be browsed as "Creating - Themes" at https://vanheemstrasystems.github.io/creating-themes/
 
 Documentation of this repository is automatically done with Quarto using GitHub Actions as described at https://github.com/vanHeemstraSystems/quarto-to-github-pages/blob/main/300/300/README.md
 
