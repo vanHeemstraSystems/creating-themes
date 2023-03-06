@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning - Themes](README.md)
+* [Creating - Themes](README.md)
