@@ -431,58 +431,58 @@ graphData = {
 ```{ojs}
 //| echo: false
 tree = ({
-  title: "Learning - Themes",
+  title: "Creating - Themes",
   group: "root",
   scale: 0.94,
   description:
-    "Welcome to [Learning Themes](https://github.com/vanHeemstraSystems/learning-themes)",
+    "Welcome to [Creating Themes](https://github.com/vanHeemstraSystems/creating-themes)",
   img:
     "https://lh3.googleusercontent.com/pw/AM-JKLXyIIYcSSkvC6CGp7qo4UDL7o-dN2zrL215tl-kVGilitOa-Es_Dt8WrOq4VqKk_fLb9KdTBLaD8ztWYgDDZmH54ve6NLtl73V8ZHikjSGDMUS-tMVH8eqLByBB7xBtv-lpjj3JdvwZpuOSput46gPHNg=s458-no?authuser=0",
   children: [
     {
-      title: "A: Automation",
-      link: "https://vanheemstrasystems.github.io/learning-automation",
-      group: "automation",
+      title: "A: Application",
+      link: "https://vanheemstrasystems.github.io/creating-application",
+      group: "application",
       description:
-        "About Automation.",
+        "About Application.",
       img:
         "https://lh3.googleusercontent.com/pw/AM-JKLXyIIYcSSkvC6CGp7qo4UDL7o-dN2zrL215tl-kVGilitOa-Es_Dt8WrOq4VqKk_fLb9KdTBLaD8ztWYgDDZmH54ve6NLtl73V8ZHikjSGDMUS-tMVH8eqLByBB7xBtv-lpjj3JdvwZpuOSput46gPHNg=s458-no?authuser=0",
       children: [
         {
-          title: "Home Automation",
-          link: "https://vanheemstrasystems.github.io/learning-home-automation",
-          group: "automation",
+          title: "SaaS Application",
+          link: "https://vanheemstrasystems.github.io/creating-saas-application",
+          group: "application",
           description:
-            "About Home Automation.",
+            "About SaaS Application.",
           img:
             "https://lh3.googleusercontent.com/pw/AM-JKLXyIIYcSSkvC6CGp7qo4UDL7o-dN2zrL215tl-kVGilitOa-Es_Dt8WrOq4VqKk_fLb9KdTBLaD8ztWYgDDZmH54ve6NLtl73V8ZHikjSGDMUS-tMVH8eqLByBB7xBtv-lpjj3JdvwZpuOSput46gPHNg=s458-no?authuser=0"
         },
         {
-          title: "Another Automation",
+          title: "PaaS Application",
           link: "https://www.google.com",
-          group: "automation",
+          group: "application",
           description:
-            "About Another Automation.",
+            "About PaaS Application.",
           url: "https://www.google.com",
           img:
             "https://lh3.googleusercontent.com/pw/AM-JKLXyIIYcSSkvC6CGp7qo4UDL7o-dN2zrL215tl-kVGilitOa-Es_Dt8WrOq4VqKk_fLb9KdTBLaD8ztWYgDDZmH54ve6NLtl73V8ZHikjSGDMUS-tMVH8eqLByBB7xBtv-lpjj3JdvwZpuOSput46gPHNg=s458-no?authuser=0"
         },
         {
-          title: "Yet Another Automation",
+          title: "IaaS Application",
           link: "https://www.google.com",
-          group: "automation",
+          group: "application",
           description:
-            "About Yet Another Automation.",
+            "About IaaS Application.",
           img:
             "https://lh3.googleusercontent.com/pw/AM-JKLXyIIYcSSkvC6CGp7qo4UDL7o-dN2zrL215tl-kVGilitOa-Es_Dt8WrOq4VqKk_fLb9KdTBLaD8ztWYgDDZmH54ve6NLtl73V8ZHikjSGDMUS-tMVH8eqLByBB7xBtv-lpjj3JdvwZpuOSput46gPHNg=s458-no?authuser=0"
         }
       ]
     },
     {
-      title: "B: Application Programming Interfaces",
-      group: "application-programming-interfaces",
+      title: "B: -",
+      group: "b",
       description:
-        "The Nexus Navigator is a tool I built to investigate interactions between relatively small sets of Twitter users to highlight patterns of behavior.  The interactions are presented as a graph in the center, with filters on the left, selected interactions on the right and a timeline at the bottom.",
+        "About B.",
       img:
         "https://lh3.googleusercontent.com/pw/AM-JKLXyIIYcSSkvC6CGp7qo4UDL7o-dN2zrL215tl-kVGilitOa-Es_Dt8WrOq4VqKk_fLb9KdTBLaD8ztWYgDDZmH54ve6NLtl73V8ZHikjSGDMUS-tMVH8eqLByBB7xBtv-lpjj3JdvwZpuOSput46gPHNg=s458-no?authuser=0",
       children: [
@@ -505,11 +505,11 @@ tree = ({
       ]
     },
     {
-      title: "C: CI/CD",
-      _link: "https://vanheemstrasystems.github.io/learning-ci-cd",
-      group: "ci-cd",
+      title: "C: -",
+      _link: "https://vanheemstrasystems.github.io/learning-c",
+      group: "c",
       description:
-        "This interactive was published leading up to the 2016 election, and updated regularly.  Initially, it shows candidates ranked by buzz on Twitter and indicates when each candidate dropped out of the race.  If you mouse over the primaries and debates you can see who participated in which.",
+        "About C.",
       img:
         "https://lh3.googleusercontent.com/pw/AM-JKLXyIIYcSSkvC6CGp7qo4UDL7o-dN2zrL215tl-kVGilitOa-Es_Dt8WrOq4VqKk_fLb9KdTBLaD8ztWYgDDZmH54ve6NLtl73V8ZHikjSGDMUS-tMVH8eqLByBB7xBtv-lpjj3JdvwZpuOSput46gPHNg=s458-no?authuser=0",
       children: [
@@ -526,10 +526,10 @@ tree = ({
       ]
     },
     {
-      title: "D: Containerisation",
-      group: "containerisation",
+      title: "D: -",
+      group: "d",
       description:
-        "About Containerisation.",
+        "About D.",
       img:
         "https://lh3.googleusercontent.com/pw/AM-JKLXyIIYcSSkvC6CGp7qo4UDL7o-dN2zrL215tl-kVGilitOa-Es_Dt8WrOq4VqKk_fLb9KdTBLaD8ztWYgDDZmH54ve6NLtl73V8ZHikjSGDMUS-tMVH8eqLByBB7xBtv-lpjj3JdvwZpuOSput46gPHNg=s458-no?authuser=0",
       children: [
@@ -556,10 +556,10 @@ tree = ({
       ]  
     },
     {
-      title: "E: Computing",
-      group: "computing",
+      title: "E: -",
+      group: "e",
       description:
-        "I have had a chance to work on a number of more whimsical projects. For example, this is a prototype to show emoji use on Twitter, though it was not published.  A simple [ordered list](https://twitter.com/twitterdata/status/673905956909133824) was chosen instead.  I thought my treatment was fun if a little busy.",
+        "About E.",
       img:
         "https://lh3.googleusercontent.com/pw/AM-JKLXyIIYcSSkvC6CGp7qo4UDL7o-dN2zrL215tl-kVGilitOa-Es_Dt8WrOq4VqKk_fLb9KdTBLaD8ztWYgDDZmH54ve6NLtl73V8ZHikjSGDMUS-tMVH8eqLByBB7xBtv-lpjj3JdvwZpuOSput46gPHNg=s458-no?authuser=0",
       children: [
@@ -584,12 +584,12 @@ tree = ({
       ]
     },
     {
-      title: "F: Infrastructure-as-Code",
+      title: "F: -",
       link:
         "https://vanheemstrasystems.github.io/learning-infrastructure-as-code",
       group: "infrastructure-as-code",
       description:
-        'About Infrastructure-as-Code.',
+        'About F.',
       img:
         "https://lh3.googleusercontent.com/pw/AM-JKLXyIIYcSSkvC6CGp7qo4UDL7o-dN2zrL215tl-kVGilitOa-Es_Dt8WrOq4VqKk_fLb9KdTBLaD8ztWYgDDZmH54ve6NLtl73V8ZHikjSGDMUS-tMVH8eqLByBB7xBtv-lpjj3JdvwZpuOSput46gPHNg=s458-no?authuser=0",
       children: [
@@ -614,12 +614,12 @@ tree = ({
       ]
     },
     {
-      title: "G: Pipelines",
+      title: "G: -",
       link:
         "https://vanheemstrasystems.github.io/learning-pipelines",
-      group: "pipelines",
+      group: "g",
       description:
-        'About Pipelines.',
+        'About G.',
       img:
         "https://lh3.googleusercontent.com/pw/AM-JKLXyIIYcSSkvC6CGp7qo4UDL7o-dN2zrL215tl-kVGilitOa-Es_Dt8WrOq4VqKk_fLb9KdTBLaD8ztWYgDDZmH54ve6NLtl73V8ZHikjSGDMUS-tMVH8eqLByBB7xBtv-lpjj3JdvwZpuOSput46gPHNg=s458-no?authuser=0",
       children: [
@@ -635,12 +635,12 @@ tree = ({
       ]
     },
     {
-      title: "H: Process Mining",
+      title: "H: -",
       link:
         "https://vanheemstrasystems.github.io/learning-process-mining",
-      group: "process-mining",
+      group: "h",
       description:
-        'About Process Mining.',
+        'About H.',
       img:
         "https://lh3.googleusercontent.com/pw/AM-JKLXyIIYcSSkvC6CGp7qo4UDL7o-dN2zrL215tl-kVGilitOa-Es_Dt8WrOq4VqKk_fLb9KdTBLaD8ztWYgDDZmH54ve6NLtl73V8ZHikjSGDMUS-tMVH8eqLByBB7xBtv-lpjj3JdvwZpuOSput46gPHNg=s458-no?authuser=0",
       children: [
@@ -656,12 +656,12 @@ tree = ({
       ]
     },
     {
-      title: "I: Programming",
+      title: "I: -",
       link:
         "https://vanheemstrasystems.github.io/learning-programming",
-      group: "programming",
+      group: "i",
       description:
-        'About Programming.',
+        'About I.',
       img:
         "https://lh3.googleusercontent.com/pw/AM-JKLXyIIYcSSkvC6CGp7qo4UDL7o-dN2zrL215tl-kVGilitOa-Es_Dt8WrOq4VqKk_fLb9KdTBLaD8ztWYgDDZmH54ve6NLtl73V8ZHikjSGDMUS-tMVH8eqLByBB7xBtv-lpjj3JdvwZpuOSput46gPHNg=s458-no?authuser=0",
       children: [
@@ -677,12 +677,12 @@ tree = ({
       ]
     },
     {
-      title: "J: Security",
+      title: "J: -",
       link:
         "https://vanheemstrasystems.github.io/learning-security",
-      group: "security",
+      group: "j",
       description:
-        'About Security.',
+        'About J.',
       img:
         "https://lh3.googleusercontent.com/pw/AM-JKLXyIIYcSSkvC6CGp7qo4UDL7o-dN2zrL215tl-kVGilitOa-Es_Dt8WrOq4VqKk_fLb9KdTBLaD8ztWYgDDZmH54ve6NLtl73V8ZHikjSGDMUS-tMVH8eqLByBB7xBtv-lpjj3JdvwZpuOSput46gPHNg=s458-no?authuser=0",
       children: [
@@ -698,12 +698,12 @@ tree = ({
       ]
     },
     {
-      title: "K: Testing",
+      title: "K: -",
       link:
         "https://vanheemstrasystems.github.io/learning-testing",
-      group: "testing",
+      group: "k",
       description:
-        'About Testing.',
+        'About K.',
       img:
         "https://lh3.googleusercontent.com/pw/AM-JKLXyIIYcSSkvC6CGp7qo4UDL7o-dN2zrL215tl-kVGilitOa-Es_Dt8WrOq4VqKk_fLb9KdTBLaD8ztWYgDDZmH54ve6NLtl73V8ZHikjSGDMUS-tMVH8eqLByBB7xBtv-lpjj3JdvwZpuOSput46gPHNg=s458-no?authuser=0",
       children: [
@@ -719,12 +719,12 @@ tree = ({
       ]
     },
     {
-      title: "L: Value-Chain Management",
+      title: "L: -",
       link:
         "https://vanheemstrasystems.github.io/learning-value-chain-management",
-      group: "value-chain-management",
+      group: "l",
       description:
-        'About Value-Chain Management.',
+        'About L.',
       img:
         "https://lh3.googleusercontent.com/pw/AM-JKLXyIIYcSSkvC6CGp7qo4UDL7o-dN2zrL215tl-kVGilitOa-Es_Dt8WrOq4VqKk_fLb9KdTBLaD8ztWYgDDZmH54ve6NLtl73V8ZHikjSGDMUS-tMVH8eqLByBB7xBtv-lpjj3JdvwZpuOSput46gPHNg=s458-no?authuser=0",
       children: [
@@ -740,12 +740,12 @@ tree = ({
       ]
     },
     {
-      title: "M: Workflow Management",
+      title: "M: -",
       link:
         "https://vanheemstrasystems.github.io/learning-workflow-management",
-      group: "workflow-management",
+      group: "m",
       description:
-        'About Workflow Management.',
+        'About M.',
       img:
         "https://lh3.googleusercontent.com/pw/AM-JKLXyIIYcSSkvC6CGp7qo4UDL7o-dN2zrL215tl-kVGilitOa-Es_Dt8WrOq4VqKk_fLb9KdTBLaD8ztWYgDDZmH54ve6NLtl73V8ZHikjSGDMUS-tMVH8eqLByBB7xBtv-lpjj3JdvwZpuOSput46gPHNg=s458-no?authuser=0",
       children: [
